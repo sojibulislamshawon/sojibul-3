@@ -1,0 +1,487 @@
+/* Extra small devices (portrait phones, less than 576)*/
+@media (max-width: 575.98px){
+		/*header start */
+.menu ul li a:hover{
+	background:none;
+}
+	/*header end */
+		/*alex start */
+.alexs{
+	text-align:center;
+}
+.alexs h1{
+	font-size:30px;
+}
+.alexs h2{
+	font-size:15px;
+}
+.alexs p{
+	margin-top:15px;
+	font-size:13px;
+}
+.bt{
+    text-align:center;
+}
+.alexs_img{
+	margin-top:0px;
+	text-align:center;
+}
+.hire_bt{
+	width: 100px;
+}
+	/*alex end */
+		/*about start*/
+.abouts_img img {
+	 height:352px;
+}
+.abouts{
+	margin-top:20px;
+}
+.abouts h3{
+	font-size:25px;
+	text-align:center;
+}
+.abouts p {
+	font-size:13px;
+	text-align:center;
+}
+.get_bt{
+	width:120px;
+	text-align:center;
+}
+	/*about end*/
+		/*port start*/
+.ports h3{
+	font-size:20px;
+}
+.ports p{
+	font-size:13px;
+}
+.ports nav li a{
+	font-size: 15px;
+     padding: 2px 2px;	
+}
+
+	/*port end*/
+		/*service start*/
+.services{
+    height: 150px;
+    width: 290px;
+}
+.p-title{
+	  font-size:16px; 
+	   margin-left:80px;
+}
+.p-text{
+	font-size:12px;
+	 margin-left:80px;
+}
+	/*service end*/
+			/*our start*/
+.button {
+  padding: 0.5em .5em;
+  font-size:8px;
+  margin-bottom:20px;
+}
+.element-item img{
+	 width: 89px;
+    height: 130px;
+    margin-bottom:5px;
+}
+.isotope_overlay p {
+	font-size:13px;
+	margin-top:60px;
+}
+	/*our end*/
+	/*skill start*/
+.skill{
+	padding-top:20px;
+}
+.skills h3{
+	font-size:25px
+}
+	/*skill end*/
+			/*blog start*/
+.blogs h3{
+	font-size:25px;
+}
+.blogs p{
+	font-size:13px;
+}
+	/*blog start*/
+		/*project start*/
+.count_overlay{
+	   height:940px;
+}
+	/*project end*/
+	/*client start*/
+.d-title{
+	  font-size:15px;
+}
+.d-text{
+	font-size:10px;
+}
+.donne_text img{
+	height:80px;
+	width:80px;
+}
+.cid li {
+	width: 10px;
+	height:10px;
+}
+.donne{
+    margin-left:45px;
+}
+.mid_text{
+	width:226px;
+	height: 190px;
+}
+.text_ic {
+    height: 23px;
+    width: 23px;
+    margin-top: 252px;
+}
+	/*client end*/
+	/*get start*/
+.gets_i {
+    width: 296px;
+	font-size: 11px;
+}
+.gets_t {
+    width: 296px;
+	font-size: 11px;
+}
+.gets_inp {
+    height: 31px;
+    width: 150px;
+    font-size: 11px;
+    margin-left: 58px;
+}
+	/*get end*/
+	/*footer start*/
+.footer{
+	padding:5px 0;
+}
+.f_list ul li a{
+	font-size:10px;
+}
+.f_copy p{
+	font-size:10px;
+	text-align:center;
+	margin-top:5px;
+}
+	/*footer end*/
+}
+/*Small devices (landscape phone, 576px and up)*/
+@media (min-width: 576px) and (max-width:767.98px){
+	/*header start */
+.menu ul li a:hover{
+	background:none;
+}
+	/*header end */
+	/*alex start */
+.alexs_img{
+	margin-top:0px;
+}
+	/*alex end */
+	/*about start*/
+.abouts{
+	margin-top:20px;
+}
+	/*about end*/
+		/*our start*/
+.button {
+  padding: 0.5em .5em;
+  font-size:10px;
+}
+.element-item img{
+	width: 158px;
+    height: 173px;
+    margin-bottom: 10px;
+}
+.isotope_overlay p {
+	font-size:20px;
+	margin-top:90px;
+}
+	/*our end*/
+		/*skill start*/
+.skill{
+	padding-top:40px;
+}
+	/*skill end*/
+		/*blog start*/
+.blogs_text{
+    height:336px;
+    width: 213px;
+}
+.blogs_text img{
+	height: 161px;
+    width: 182px;
+	margin: 15px 15px;
+}
+.b-title{
+	  font-size:18px;
+	  
+}
+.b-text{
+	font-size:13px;
+
+}
+	/*blog start*/
+	/*project start*/
+.count_overlay{
+	   height: 516px;
+}
+.count{
+    width:247px;
+}
+.count h5{
+	font-size:17px;
+}
+	/*project end*/
+	/*client start*/
+ .donne{
+    margin-left:45px;
+}
+ .mid_text{
+	width:170px;
+	height: 190px;
+}
+.d-title{
+	  font-size:15px;
+}
+.d-text{
+	font-size:8px;
+}
+.donne_text img{
+	height:80px;
+	width:80px;
+}
+.cid li {
+	width: 11px;
+	height:11px;
+}
+	/*client end*/
+	/*get start*/
+.gets_i {
+    width: 237px;
+}
+.gets_t {
+    width:494px;
+}
+.gets_inp {
+    width: 250px;
+    margin-left: 118px;
+}
+	/*get end*/
+	/*footer start*/
+.footer{
+	padding:5px 0;
+}
+.f_list ul li a{
+	font-size:12px;
+}
+.f_copy p{
+	 font-size: 12px;
+    margin-top: 4px;
+}
+	/*footer end*/
+	
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991.8px){
+		/*header start */
+.menu ul li a:hover{
+	background:none;
+}
+	/*header end */
+	/*alex start */
+.hire_bt{
+	width:150px;
+}
+	/*alex end */
+	/*about start*/
+.get_bt{
+	width:150px;
+}
+	/*about end*/
+	/*port start*/
+.ports nav li a{
+	font-size: 15px;
+	
+}
+.ports_icon{
+	left:20%;
+	bottom:-100%;
+}
+.ports_icon i{
+	font-size:10px;
+}
+.ports_ico {
+	left:20%;
+}
+.ports_ico p{
+	margin-top:80px;
+	font-size:13px;
+}
+	/*port end*/
+	/*our start*/
+.button {
+  padding: 0.5em .5em;
+}
+.element-item img{
+	width: 218px;
+	height: 184px;
+    margin-bottom: 10px;
+}
+.isotope_overlay p {
+	margin-top:90px;
+}
+	/*our end*/
+	/*skill start*/
+.skills_img img {
+    height: 486px;
+    width: 329px;
+}
+.skills h3{
+	font-size:25px
+}
+.skills p{
+	font-size:13px;
+}
+	/*skill end*/
+	/*blog start*/
+.blogs_text{
+    height:336px;
+    width: 213px;
+}
+.blogs_text img{
+	height: 161px;
+    width: 182px;
+	margin: 15px 15px;
+}
+.b-title{
+	  font-size:18px;
+	  
+}
+.b-text{
+	font-size:13px;
+
+}
+	/*blog start*/
+	/*project start*/
+.count{
+    height: 118px;
+    width: 169px;
+}
+.count p{
+      font-size:20px;
+}
+.count h5{
+	font-size:11px;
+}
+	/*project end*/
+   /*client start*/
+.donne{
+    margin-left:45px;
+}
+.donne_text img{
+	height:100px;
+	width:100px;
+}
+.mid_text{
+	width:270px;
+	height: 220px;
+}
+
+.d-title{
+	  font-size:17px;
+}
+.d-text{
+	font-size:11px;
+}
+	/*client end*/
+	/*get start*/
+.gets_i{
+    width:270px;
+}
+.gets_t {
+    width:560px;
+}
+.gets_inp {
+    height: 38px;
+    width: 288px;
+    margin-left: 140px;
+}
+	/*get end*/
+	/*footer start*/
+.footer{
+	padding:6px 0;
+}
+.f_list ul li a{
+	font-size:11px;
+}
+.f_copy p{
+	font-size:12px;
+	margin-top:4px;
+}
+	/*footer end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width:1199.98px){
+	/*service start*/
+.services{
+    height: 200px;
+    width: 448px;
+}
+	/*service end*/
+	/*our start*/
+.element-item img{
+	width: 297px;
+}
+	/*our end*/
+	/*pricing start*/
+.pricings{
+	width:214px;
+}
+	/*pricing end*/
+	/*project start*/
+.count{
+    width: 227px;
+}
+.count p{
+      font-size:25px;
+}
+.count h5{
+	font-size:17px;
+}
+	/*project end*/
+	/*client start*/
+.donne_text{
+    width:383px;
+}
+	/*client end*/
+	/*get start*/
+.gets_i{
+    width:369px;
+}
+.gets_t {
+    width: 757px;
+}
+.gets_inp {
+    width: 338px;
+    margin-left: 220px;
+}
+	/*get end*/
+	/*footer start*/
+.f_list ul li a{
+	font-size:16px;
+}
+.f_copy p{
+	font-size:16px;
+}
+	/*footer end*/
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 1200px) and (max-width:1299.98px){}
+	
